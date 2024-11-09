@@ -35,6 +35,6 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à l'un de 
 
 ## 📊 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&count_private=true&hide=contribs,issues)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Luxi787&show_icons=true&count_private=true&hide=contribs,issues)
 
 Merci d'avoir visité mon profil ! 😊
