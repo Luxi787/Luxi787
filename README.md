@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-Salut, je suis [@Luxi787], un passionné de développement logiciel en herbe. Bienvenue sur mon espace numérique où je partage mes projets, mes idées et mon parcours dans le monde de la programmation.
+Salut, je suis [@Sysnox], un passionné de développement logiciel en herbe. Bienvenue sur mon espace numérique où je partage mes projets, mes idées et mon parcours dans le monde de la programmation.
 
 ## 🚀 À propos de moi
 
@@ -25,7 +25,7 @@ N'hésitez pas à explorer mes repositories pour découvrir plus de projets exci
 ## 📫 Comment me Contacter
 
 - Twitter: [@Luc78711_x2z](https://twitter.com/Luc78711_x2z)
-- Email: [lucascanedo787@gmail.com]
+- Email: [lucas@luxitech-solutions.com]
 
 N'hésitez pas à me contacter si vous avez des questions, des suggestions ou simplement pour discuter du code !
 
