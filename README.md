@@ -45,7 +45,6 @@
 
 ### 📫 Me contacter
 
-- 🐦 Twitter : [@Luc78711_x2z](https://twitter.com/Luc78711_x2z)
 - 📧 Email : `lucas@luxitech-solutions.com`
 
 ---
